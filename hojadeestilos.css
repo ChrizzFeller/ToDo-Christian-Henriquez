@@ -1,0 +1,102 @@
+.flexWrap {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
+
+.container {
+	background-color: #ABA9C3;
+	height: 700px;
+	width:900px;
+	max-width: 1000px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.mainM {
+	background-color: #ABA9C3;
+	text-align: center;
+	width: 100%;
+}
+
+.greenC {
+	padding-right: 20px;
+}
+
+.greenC:hover {
+	color: blue;
+}
+
+.greenCB {
+	color: green;
+}
+
+.iconButtonArriba {
+}
+
+.iconButtonArriba:hover {
+	color: blue;
+}
+
+.iconButton {
+	font-size: 30px;
+	padding-right: 5px;
+	margin-bottom: 10px;
+}
+
+.iconButton:hover {
+	color: blue;
+}
+
+.lista {
+	min-width: 100px;
+	overflow-y: auto;
+	position: relative;
+	text-align: center;
+	margin: 10px;
+	border-radius: 12px;
+	border: 3px solid #2F243A;
+}
+
+#listT {
+	height: 500px;
+	width: 100%;
+  	max-width: 800px;
+	overflow-y: auto;
+	text-align: center;
+}
+
+.displayNone {
+	display: none !important;
+}
+
+li {
+	padding-right: 10px;
+	list-style: none;
+	padding: 5px;
+}
+
+.removeI {
+	cursor: pointer;
+	padding-left: 20px;
+}
+
+.removeI:hover {
+	color: blue;
+}
+
+.subrayado {
+	text-decoration: line-through;
+}
+
+/*.colorRojo {
+	color: red;
+	background-color: blue;
+}
+
+.colorAzul {
+	color: blue;
+	background-color: red;
+}*/
